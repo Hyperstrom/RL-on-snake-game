@@ -70,7 +70,7 @@ https://github.com/Hyperstrom/RL-on-snake-game-/assets/112319058/4a8c7e6a-adb4-4
 
 ## **How to Run the Game:**
 
-1. Clone the repository: `git clone https://github.com/Hyperstrom/RL-on-snake-game-`
+1. Clone the repository: `git clone https://github.com/Hyperstrom/RL-on-snake-game`
 2. Navigate to the project directory: `cd RL-on-snake-game-`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Run the game with AI: `python AI_Snake_Game.py`
